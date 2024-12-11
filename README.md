@@ -24,3 +24,28 @@ The primary objectives of this project are as follows:
  - Provide User-Friendly Output: Display the sentiment results in a concise and clear format, ensuring the system is accessible to non-technical users.
 
  - Enhance Efficiency: Minimize human intervention by automating repetitive tasks, reducing time and effort.
+
+## Output
+ - Input Dialog Box
+   
+   ![image](https://github.com/user-attachments/assets/59f4c2b0-ee6f-4a01-9bb6-e6270a98260e)
+
+
+ - Web Automation
+   
+   ![image](https://github.com/user-attachments/assets/3147c7b4-f8dd-42be-ad83-38ba6e52970d)
+
+
+ - Extracted Tweets
+   
+   ![image](https://github.com/user-attachments/assets/0787cd42-0536-4db4-9e84-77f043642b48)
+
+
+ - ChatGPT Interaction
+   
+  ![image](https://github.com/user-attachments/assets/a644dc7c-2222-431a-8e07-ba8e5f0c8023)
+
+ - Final Output
+   
+   ![image](https://github.com/user-attachments/assets/b5ab9c48-5221-453c-98ee-25be765a397b)
+
